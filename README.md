@@ -15,7 +15,7 @@ The main goal is to evaluate recognition in speakers not encountered during trai
 
 - `APR_Speech_Emotion_Recognition.ipynb` — Main notebook with explanations and experimental code.
 - `APR_Speech_Emotion_Recognition.py` — Python version of the code.
-- `Report_Audio.pdf` — Project report with methods, results, and discussion.
+- `APR_Report_D'Elia.pdf` — Project report with methods, results, and discussion.
 - `README.md` — Project overview and execution instructions.
 
 ## Datasets
